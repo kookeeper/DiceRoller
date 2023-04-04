@@ -1,4 +1,4 @@
-package com.zookeeper.diceroller
+package com.kookeeper.diceroller
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.zookeeper.diceroller
+package com.kookeeper.diceroller
 
 class Dice(private val sides : Int) {
     fun roll() : Int {

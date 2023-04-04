@@ -1,4 +1,4 @@
-package com.zookeeper.diceroller
+package com.kookeeper.diceroller
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
